@@ -15,3 +15,4 @@ int main() {
     fb(n);
     return 0;
 }
+
