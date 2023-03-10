@@ -1,0 +1,15 @@
+# Ignore files with .o and .a extensions
+*.o
+*.a
+
+# Ignore the build/ directory
+build/
+
+# Ignore log files
+*.log
+
+# Ignore files in the tmp/ directory
+tmp/*
+
+# Ignore 1.s
+1.s
